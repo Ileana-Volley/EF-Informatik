@@ -26,5 +26,8 @@ Life is what you make it.
  Yestarday is history.  
  Tomorrow is a mistery.  
  Today is a gift, which is why we call it the present.   
- ...
- 
+ ...  
+## Code
+```py
+print('Hello World')
+```
