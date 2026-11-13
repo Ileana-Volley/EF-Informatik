@@ -1,7 +1,7 @@
 print('[')
 def spielfeld(mat2d):
     for zeile in mat2d:
-        print(f'  {zeile},')
+        print(f'  {zeile}')
 
 
 
