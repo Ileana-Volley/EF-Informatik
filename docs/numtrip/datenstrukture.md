@@ -4,5 +4,6 @@ Mit i und j abfragen.
 Mit einer zweiten Liste, vielleicht. 
 
 ![](..\..\Images\spielfeldplan.jpeg) 
+
  
 
